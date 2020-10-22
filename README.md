@@ -1,2 +1,4 @@
 # Hello-world
-The first one I make
+I am changing the readme as I learn hot to use this tool.
+Awesome due!!!!
+
